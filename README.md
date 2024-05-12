@@ -12,7 +12,7 @@
 
 4. Получаем ссылку в терминале.
 ----------------------
-INFO:     Uvicorn running on http://0.0.0.0:8000
 
-Use this url in chrome to see the model frontend;
-use http://0.0.0.0:8000/docs for testing the model in the web interface.
+    Uvicorn running on http://0.0.0.0:8000
+
+
