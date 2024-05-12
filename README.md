@@ -2,13 +2,11 @@
 
 1. Создаем образ в докере.
 ---------------------
-.. code-block::
 
     docker build -t image_name .
 
 3. Запускаем контейнер.
 ----------------
-.. code-block::
 
     docker run --name container_name -p 8000:8000 image_name
 
